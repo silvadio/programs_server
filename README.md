@@ -7,3 +7,5 @@ Servidor RDP - conexão de area remota
 - sudo systemctl start xrdp
 - sudo systemctl status xrdp
 - hostname -I - Descubrir IP do linux
+
+## Docker
